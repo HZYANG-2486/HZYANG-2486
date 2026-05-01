@@ -1,4 +1,4 @@
-<!--![What?](https://api.bimg.cc/today "Bing")-->
+![What?](./IMG_4400.jpg "Photo")
 # Hi there 👋
 ## 😉 About Me...
  Bro只是一个初中牲(~~新手ioer~~)owo<br>
@@ -10,6 +10,9 @@
 ## ⌨ Language...
  主要用Python进行编写
 
+---
+
+#### HZYANG 2026
 
 <!--
 **HZYANG-2486/HZYANG-2486** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
