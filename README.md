@@ -1,4 +1,15 @@
-## Hi there 👋
+<!--![What?](https://api.bimg.cc/today "Bing")-->
+# Hi there 👋
+## 😉 About Me...
+ Bro只是一个初中牲(~~新手ioer~~)owo<br>
+ 平常就~~拿AI~~写点代码啥的,就平时会更新点小的服务和程序之类<br>
+ 主要有些时候会忙,大概每周节假日会进行更新
+## 💻 Now...
+ 现在主要在开发719WebF,一个共享文件的Flask小服务<br>
+ 这个服务已经运行在班里的电教机上<br>
+## ⌨ Language...
+ 主要用Python进行编写
+
 
 <!--
 **HZYANG-2486/HZYANG-2486** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
