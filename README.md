@@ -1,4 +1,4 @@
-![What?](./IMG_4400.jpg "Photo")
+<img src="./IMG_4400.jpg" width="1000vw"><br>
 # Hi there 👋
 ## 😉 About Me...
  Bro只是一个初中牲(~~新手ioer~~)owo<br>
@@ -8,11 +8,16 @@
  现在主要在开发719WebF,一个共享文件的Flask小服务<br>
  这个服务已经运行在班里的电教机上<br>
 ## ⌨ Language...
- 主要用Python进行编写
-
+ 主要用Python进行编写<br>
+## 📷 Photos...
+ 上面的~~屑~~图是我拍的 ~~(bro喜欢乱拍些东西)~~ <br>
+ 下图由[蔚蓝档案(国服)官网](https://bluearchive-cn.com/)提供
+ 
 ---
 
-#### HZYANG 2026
+<h4 align="center">HZYANG 2026</p>
+
+<img src="./pagend.png" width="1000vw"><br>
 
 <!--
 **HZYANG-2486/HZYANG-2486** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
