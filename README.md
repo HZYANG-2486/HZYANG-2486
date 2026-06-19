@@ -1,14 +1,18 @@
 <img src="./IMG_4400.jpg" width="1000vw"><br>
 # Hi there 👋
 ## 😉 About Me...
- Bro只是一个初中牲(~~新手ioer~~)owo<br>
- 平常就~~拿AI~~写点代码啥的,就平时会更新点小的服务和程序之类<br>
+ Bro只是一个初中牲(~~新手ioer~~)<br>
+ 平常就~~拿AI~~写点代码啥的,平时会更新点小的服务和程序之类<br>
  主要有些时候会忙,大概每周节假日会进行更新
 ## 💻 Now...
- 现在主要在开发719WebF,一个共享文件的Flask小服务<br>
+<!--加了个旋转石墩子😆--> 
+ 编写[719WebF](https://github.com/HZYANG-2486/719WebF)<img src="https://stone.professorlee.work/api/stone/HZYANG-2486/719WebF" style="height:auto;width:30px;border:1px solid #ccc;overflow:hidden;" /><br>
  这个服务已经运行在班里的电教机上<br>
+ 
 ## ⌨ Language...
- 主要用Python进行编写<br>
+ ~~主要用Python进行编写~~<br>
+ 我想写什么项目语言就是什么(Python(C#主要是AI写))<br>
+ 另外我懒得写英文(owo)<br>
 ## 📷 Photos...
  上面的~~屑~~图是我拍的 ~~(bro喜欢乱拍些东西)~~ <br>
  下图由[蔚蓝档案(国服)官网](https://bluearchive-cn.com/)提供
