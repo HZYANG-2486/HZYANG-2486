@@ -12,7 +12,7 @@
 ## ⌨ Language...
  ~~主要用Python进行编写~~<br>
  我想写什么项目语言就是什么(Python(C#主要是AI写))<br>
- 另外我懒得写英文(owo)<br>
+ ~~另外我懒得写英文(owo)~~ 当我没说<br>
 ## 📷 Photos...
  上面的~~屑~~图是我拍的 ~~(bro喜欢乱拍些东西)~~ <br>
  下图由[蔚蓝档案(国服)官网](https://bluearchive-cn.com/)提供
