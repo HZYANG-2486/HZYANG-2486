@@ -5,10 +5,12 @@
  平常就~~拿AI~~写点代码啥的,平时会更新点小的服务和程序之类<br>
  主要有些时候会忙,大概每周节假日会进行更新
 ## 💻 Now...
-<!--加了个旋转石墩子😆--> 
- 编写[719WebF](https://github.com/HZYANG-2486/719WebF)<img src="https://stone.professorlee.work/api/stone/HZYANG-2486/719WebF" style="height:auto;width:30px;border:1px solid #ccc;overflow:hidden;" /><br>
- 这个服务已经运行在班里的电教机上<br>
- 
+<!--加了更多的旋转石墩子😆--> 
+ [719WebF](https://github.com/HZYANG-2486/719WebF)<img src="https://stone.professorlee.work/api/stone/HZYANG-2486/719WebF" style="height:auto;width:30px;border:1px solid #ccc;overflow:hidden;" /><br>
+ [Rin-TOTP](https://github.com/HZYANG-2486/Rin-TOTP)<img src="https://stone.professorlee.work/api/stone/HZYANG-2486/Rin-TOTP" style="height:auto;width:30px;border:1px solid #ccc;overflow:hidden;" /><br>
+ [CICUser](https://github.com/HZYANG-2486/CICUser)<img src="https://stone.professorlee.work/api/stone/HZYANG-2486/CICUser" style="height:auto;width:30px;border:1px solid #ccc;overflow:hidden;" /><br>
+ [CIPacker-Core](https://github.com/HZYANG-2486/CIPacker-Core)<img src="https://stone.professorlee.work/api/stone/HZYANG-2486/CIPacker-Core" style="height:auto;width:30px;border:1px solid #ccc;overflow:hidden;" /><br>
+ ~~(没人觉得这个很神圣吗）~~
 ## ⌨ Language...
  ~~主要用Python进行编写~~<br>
  我想写什么项目语言就是什么(Python(C#主要是AI写))<br>
